@@ -1,0 +1,16 @@
+# Python / Jupyter
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Credit Card dataset is 144 MB (over GitHub's 100 MB limit): download it from Kaggle (see README)
+data/creditcard.csv
+
+# Course material (French, owned by the teaching staff)
+docs/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
